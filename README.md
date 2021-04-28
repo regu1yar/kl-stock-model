@@ -5,6 +5,6 @@
 ## Содержание репозитория:
 
 - [kl_stock_model.pdf](./kl_stock_model.pdf) -- pdf-документ с отчетом по проекту, содержащий постановку задачи, теоретические выкладки и основные результаты
-- [kl_stock_model.ipynb](./kl_stock_model.ipynb) --  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1L5a8s8dExEBzcrOpA-IYY3sxivO1wmbS/view?usp=sharing) jupyter-ноутбук с кодом программы, которая моделирует процесс изменения капитала страховой компании, а также сравнивает теоретические оценки вероятности разорения с эмпирическими, полученными по методу Монте-Карло
+- [kl_stock_model.ipynb](./kl_stock_model.ipynb) --  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/regu1yar/kl-stock-model/blob/main/kl_stock_model.ipynb) jupyter-ноутбук с кодом программы, которая моделирует процесс изменения капитала страховой компании, а также сравнивает теоретические оценки вероятности разорения с эмпирическими, полученными по методу Монте-Карло
 - [tex_sources](./tex_sources) -- исходники LATEX-документа
 
